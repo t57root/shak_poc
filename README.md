@@ -1,18 +1,13 @@
 shak
 ====
 
-Shell Access Kit
 _c757 <www.hackshell.net>
 
-
-This is a demo sample for shak project.
-
-Will *NOT* being maintained.
+This is a demo for shak project. Will *NOT* be maintained.
 
 * hijacker
-* Tunnel 
+* Tunnel
 * VPN
-
 * pBridge
 * amcsh
 * rk
