@@ -15,11 +15,6 @@
 #include <linux/udp.h>
 #include <net/tcp.h> 
 #include <linux/inetdevice.h>
-//#include <linux/kernel.h>
-//#include <linux/socket.h>
-//#include <linux/moduleparam.h>
-//#include <linux/version.h>
-//#include <net/checksum.h>
 
 static struct nf_hook_ops shak_prerouting_hookops;
 static struct nf_hook_ops shak_postrouting_hookops;

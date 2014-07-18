@@ -4,9 +4,7 @@
 #include <fcntl.h>  
 #include <unistd.h>
 #include <sys/socket.h>
-//#include <sys/types.h>  
-//#include <sys/stat.h>  
-  
+
 #define FIFO_NAME "/tmp/my_fifo"
   
 void watchdog()  
